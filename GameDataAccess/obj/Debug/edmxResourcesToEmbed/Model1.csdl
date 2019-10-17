@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Player">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="1024" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Highscore" Type="Int32" Nullable="false" />
+    <Property Name="Tens" Type="Int32" Nullable="false" />
+    <Property Name="Hundreds" Type="Int32" Nullable="false" />
+    <Property Name="Thousands" Type="Int32" Nullable="false" />
+    <Property Name="TenThousands" Type="Int32" Nullable="false" />
+    <Property Name="HundredThousands" Type="Int32" Nullable="false" />
+    <Property Name="Millions" Type="Int32" Nullable="false" />
+    <Property Name="Salt" Type="String" Nullable="false" MaxLength="1024" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="Refresh_The_PageEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Players" EntityType="Self.Player" />
+  </EntityContainer>
+</Schema>

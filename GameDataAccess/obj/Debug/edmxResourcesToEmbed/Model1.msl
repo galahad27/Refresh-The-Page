@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Refresh_The_PageEntities">
+    <EntitySetMapping Name="Players">
+      <EntityTypeMapping TypeName="Model.Player">
+        <MappingFragment StoreEntitySet="Player">
+          <ScalarProperty Name="Salt" ColumnName="Salt" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Highscore" ColumnName="Highscore" />
+          <ScalarProperty Name="Tens" ColumnName="Tens" />
+          <ScalarProperty Name="Hundreds" ColumnName="Hundreds" />
+          <ScalarProperty Name="Thousands" ColumnName="Thousands" />
+          <ScalarProperty Name="TenThousands" ColumnName="TenThousands" />
+          <ScalarProperty Name="HundredThousands" ColumnName="HundredThousands" />
+          <ScalarProperty Name="Millions" ColumnName="Millions" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

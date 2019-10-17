@@ -1,0 +1,12 @@
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\GameDataAccess.dll.config
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\GameDataAccess.dll
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\GameDataAccess.pdb
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\obj\Debug\GameDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\obj\Debug\GameDataAccess.csproj.CopyComplete
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\obj\Debug\GameDataAccess.dll
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\obj\Debug\GameDataAccess.pdb
+C:\Users\Galah\Personal\Projects\Web\C#\Refresh The Page\GameDataAccess\obj\Debug\GameDataAccess.csprojAssemblyReference.cache
